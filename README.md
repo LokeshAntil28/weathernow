@@ -63,28 +63,6 @@
 
 ---
 
-## 🚀 Setup & Run
-
-### 1. Clone the repository
-```bash
-git clone https://github.com/YOUR_USERNAME/weathernow.git
-cd weathernow
-```
-
-### 2. Get a free API key
-1. Visit [openweathermap.org](https://openweathermap.org/api) and sign up
-2. Go to **My Profile → API Keys** and copy your key
-3. The free plan gives you **1,000 API calls/day** — more than enough
-
-### 3. Add your API key
-Open `app.js` and update line 3:
-```js
-// Change this:
-const API_KEY = 'YOUR_API_KEY_HERE';
-
-// To your actual key:
-const API_KEY = 'a1b2c3d4e5f6yourkeyhere';
-```
 
 ### 4. Open in browser
 ```bash
@@ -117,21 +95,6 @@ GET https://api.openweathermap.org/data/2.5/weather?q={city}&units=metric&appid=
 GET https://api.openweathermap.org/data/2.5/forecast?q={city}&units=metric&appid={key}
 ```
 
-Both available on the **free tier**.
-
----
-
-## 🌐 Deploy to GitHub Pages
-
-1. Push this repo to GitHub
-2. Go to repo → **Settings** → **Pages**
-3. Set source: **Deploy from branch → main → / (root)**
-4. Live at: `https://YOUR_USERNAME.github.io/weathernow`
-
-> ⚠️ **Security Note:** Never push your real API key to a public GitHub repo. For production, hide it behind a backend proxy.
-
----
-
 ## 📄 License
 
 [MIT](LICENSE) © 2025 Lokesh Kumar
@@ -141,4 +104,4 @@ Both available on the **free tier**.
 ## 👨‍💻 Author
 
 **Lokesh Kumar** · Sonipat, Haryana, India
-📧 17mr.antil@gmail.com · 🐙 [GitHub](https://github.com/YOUR_USERNAME)
+📧 17mr.antil@gmail.com · 🐙 [GitHub](https://github.com/)
