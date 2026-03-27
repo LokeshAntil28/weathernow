@@ -104,4 +104,4 @@ GET https://api.openweathermap.org/data/2.5/forecast?q={city}&units=metric&appid
 ## 👨‍💻 Author
 
 **Lokesh Kumar** · Sonipat, Haryana, India
-📧 17mr.antil@gmail.com · 🐙 [GitHub](https://github.com/)
+📧 17mr.antil@gmail.com · 🐙 [GitHub](https://github.com/LokeshAntil28)
